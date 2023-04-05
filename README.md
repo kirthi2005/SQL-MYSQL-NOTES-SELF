@@ -1,2 +1,3 @@
 # SQL-MYSQL-Launchcode
-Launchcode curriculum
+
+This repository conatins Exercises, Studios and Notes from **Launchcode's SQL and Databases** course curriculum
