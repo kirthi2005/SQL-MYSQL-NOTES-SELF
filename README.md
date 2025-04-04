@@ -1,6 +1,6 @@
 # SQL-MYSQL-Launchcode
 
-This repository conatins Exercises, Studios and Notes from **Launchcode's SQL and Databases** course curriculum
+This repository conatins SQL notes.
 
 You can find the **notes** in the attached doc in the repository
 
@@ -9,3 +9,8 @@ You can find the **notes** in the attached doc in the repository
     - Mysql bench installation
     - Datatypes of SQL 
     - SQL queries - CRUD
+    - Manipulation
+    - Queries
+    - Aggregate Functions
+    - Multiple Tables
+    
