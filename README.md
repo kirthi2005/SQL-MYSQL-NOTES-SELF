@@ -14,6 +14,5 @@ You can find the **notes** in the attached doc in the repository
     - Aggregate Functions
     - Multiple Tables
 
-#Badge
-    <img width="214" alt="1" src="https://github.com/user-attachments/assets/6b23147e-bcaf-49ee-91ea-b430b303ad77" />
+<img width="214" alt="1" src="https://github.com/user-attachments/assets/6b23147e-bcaf-49ee-91ea-b430b303ad77" />
 
