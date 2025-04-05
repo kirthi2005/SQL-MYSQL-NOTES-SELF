@@ -1,4 +1,4 @@
-# SQL-MYSQL-Launchcode
+# SQL
 
 This repository conatins SQL notes.
 
